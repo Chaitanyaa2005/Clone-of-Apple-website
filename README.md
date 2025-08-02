@@ -1,3 +1,17 @@
-This website is a clone of the actual apple website made using html and css . 
+# 🍎 Apple Website Clone
 
-You can access this code by making use of live server on vs code
+A responsive front-end clone of the official Apple website built using **HTML** and **CSS**. This project replicates the look and feel of Apple’s homepage, showcasing clean layout, typography, and modern design aesthetics.
+
+## 🚀 Features
+
+- Fully responsive design (desktop & mobile)
+- Smooth scrolling and layout transitions
+- Accurate Apple-like navigation bar
+- Sectioned layout: hero, product highlights, and footer
+- Typography and spacing similar to Apple’s branding
+
+## 🛠️ Built With
+
+- **HTML5** – Markup structure
+- **CSS** – Styling, layout, flexbox, and media queries
+
