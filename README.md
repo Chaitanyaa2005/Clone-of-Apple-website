@@ -1,4 +1,4 @@
-# 🍎 Apple Website Clone
+#  Apple Website Clone
 
 A responsive front-end clone of the official Apple website built using **HTML** and **CSS**. This project replicates the look and feel of Apple’s homepage, showcasing clean layout, typography, and modern design aesthetics.
 
